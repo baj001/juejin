@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0b52b03-aec0-481f-a7f6-d4feafb66dd5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="298aVxjngSHMkWoTYAyTWcx4lKi" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/shang/javatest/Account/method5" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace_idea\juejinRPC\JAVATEST\src\main\java\com\shang\javatest\Account\method5" />
+      <recent name="D:\workspace_idea\juejinRPC\JAVATEST\src\main\java\com\shang\javatest\Account\method3_1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.LeetCode8">
+    <configuration name="LeetCode128" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shang.javatest.standard.test.LeetCode128" />
+      <module name="JAVATEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shang.javatest.standard.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shang.javatest.standard.test.LeetCode8" />
+      <module name="JAVATEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shang.javatest.standard.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shang.javatest.standard.practice.LinkList1" />
+      <module name="JAVATEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shang.javatest.standard.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shang.javatest.standard.model.TreeInput" />
+      <module name="JAVATEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shang.javatest.standard.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeInput1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shang.javatest.standard.practice.TreeInput1" />
+      <module name="JAVATEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shang.javatest.standard.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LeetCode8" />
+        <item itemvalue="Application.LeetCode128" />
+        <item itemvalue="Application.TreeInput1" />
+        <item itemvalue="Application.LinkList1" />
+        <item itemvalue="Application.TreeInput" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0b52b03-aec0-481f-a7f6-d4feafb66dd5" name="Default Changelist" comment="" />
+      <created>1652497193247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652497193247</updated>
+      <workItem from="1652497194839" duration="1499000" />
+      <workItem from="1652535559244" duration="1056000" />
+      <workItem from="1652536987232" duration="457000" />
+      <workItem from="1652537459935" duration="274000" />
+      <workItem from="1652537746237" duration="591000" />
+      <workItem from="1652538352063" duration="497000" />
+      <workItem from="1652538863781" duration="1753000" />
+      <workItem from="1652573607043" duration="11017000" />
+      <workItem from="1652613068468" duration="9593000" />
+      <workItem from="1652660999167" duration="9195000" />
+      <workItem from="1652677025437" duration="30000" />
+      <workItem from="1652691328772" duration="11576000" />
+      <workItem from="1652793019295" duration="1809000" />
+      <workItem from="1652795464245" duration="4207000" />
+      <workItem from="1652869354610" duration="1804000" />
+      <workItem from="1652881768655" duration="5243000" />
+      <workItem from="1652956589156" duration="4473000" />
+      <workItem from="1652972737508" duration="672000" />
+      <workItem from="1653137584485" duration="5714000" />
+      <workItem from="1653178356709" duration="6953000" />
+      <workItem from="1653186003805" duration="723000" />
+      <workItem from="1653186753892" duration="112000" />
+      <workItem from="1653187620179" duration="57000" />
+      <workItem from="1653215155033" duration="2253000" />
+      <workItem from="1653236215573" duration="114000" />
+      <workItem from="1653264660635" duration="5756000" />
+      <workItem from="1653288592275" duration="947000" />
+      <workItem from="1653298464538" duration="1747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="arr[index]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
